@@ -14,7 +14,7 @@ A Django REST API for managing and searching international country data.
 
 ## 📋 How to Run Locally
 1. **Clone the repo**:
-   `git clone https://github.com/your-username/project-name.git`
+   `git clone https://github.com/VishvaAr/project-name.git`
 2. **Install dependencies**:
    `pip install -r requirements.txt`
 3. **Run Migrations**:
