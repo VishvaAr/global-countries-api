@@ -1,5 +1,5 @@
 # Project Name: [e.g., Global-Country-API]
-A brief one-sentence description of what this project does (e.g., A Django REST API for managing and searching international country data).
+A Django REST API for managing and searching international country data.
 
 ## 🌟 Features
 * **Full CRUD Functionality**: Create, Read, Update, and Delete country records.
