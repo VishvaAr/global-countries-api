@@ -32,4 +32,4 @@ A Django REST API for managing and searching international country data.
 | DELETE | `/api/countries/<id>` | Delete a country |
 
 ## 📸 Screenshots / Demo
-(Optional: Add a screenshot of your Postman results or a link to a live demo here)
+<img width="1720" height="1158" alt="image" src="https://github.com/user-attachments/assets/09837df2-9000-46b3-8617-42e58af8c907" />
