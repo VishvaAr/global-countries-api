@@ -6,10 +6,11 @@ A Django REST API for managing and searching international country data.
 * **Smart Search**: Filter countries by name using partial matching (icontains).
 * **RESTful Design**: Built using Django REST Framework best practices.
 * **Data Validation**: Ensures inputs are sanitized and valid before saving to the database.
+* **Idempotentency**: Make sure that we do not have duplicate entries in the database. 
 
 ## 🛠️ Tech Stack
-* **Backend**: Python, Django, Django REST Framework
-* **Database**: SQLite (or PostgreSQL/MySQL)
+* **Backend**: Python, Django, Django REST Framework, ORM
+* **Database**: PostgreSQL (No need for Redis or MongoDB)
 * **Tools**: Postman (for API testing)
 
 ## 📋 How to Run Locally
