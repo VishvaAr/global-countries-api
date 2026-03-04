@@ -16,7 +16,7 @@ A Django REST API for managing and searching international country data.
 
 ## Architecture
 
-1. **Client Request**: The client sends an HTTP request containing a JSON payload and headers.
+1. **Client Request**: The client sends an HTTP request in JSON.
 
 2. **Security & RBAC Layer**: Django middleware intercepts the request to verify the API Key (Authentication) and checks DRF Permission Classes to ensure the user has the correct role to perform the action (Authorization).
 
