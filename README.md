@@ -1,4 +1,4 @@
-# Project Name: [e.g., Global-Country-API]
+# Project Name: Global-Country-API
 A Django REST API for managing and searching international country data.
 
 ## 🌟 Features
